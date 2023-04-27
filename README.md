@@ -1,1 +1,1 @@
-# spactial-data
+# spatial-data
